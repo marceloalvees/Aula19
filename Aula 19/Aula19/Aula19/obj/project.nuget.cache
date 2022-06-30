@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "0v9Ay65fXQ4ikdHk07T4LtO00+dBRYr85rBQYwr/dyROoPjGecNZ+lxrb0xGtZk52lCXuoTxZBojOixc9BF6Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marceloa\\Desktop\\DH\\Aula 19\\Aula19\\Aula19\\Aula19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marceloa\\.nuget\\packages\\caliburn.micro\\3.1.0\\caliburn.micro.3.1.0.nupkg.sha512",
+    "C:\\Users\\marceloa\\.nuget\\packages\\caliburn.micro.core\\3.1.0\\caliburn.micro.core.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Caliburn.Micro 3.1.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Caliburn.Micro",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Caliburn.Micro.Core 3.1.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Caliburn.Micro.Core",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
